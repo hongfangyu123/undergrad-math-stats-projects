@@ -1,0 +1,153 @@
+Course ID:COMP3012
+Course name:Computer Vision
+Evaluation items for the course:3
+Items:
+Assignment 30 50
+Project 30 100
+Final 40 100
+
+Course ID:COMP4012
+Course name:Data Mining
+Evaluation items for the course:3
+Items:
+Assignment 30 50
+Project 30 100
+Final 40 100
+
+Course ID:COMP7043
+Course name:Deep Learning and Applications
+Evaluation items for the course:3
+Items:
+Assignment 30 50
+Project 30 100
+Final 40 100
+
+There're totally 3 courses recorded:
+
+1.      COMP3012        Computer Vision
+2.      COMP4012        Data Mining
+3.      COMP7043        Deep Learning and Applications
+
+Enter a number to delete the related course or any other key back: 3
+There're totally 2 courses recorded:
+
+1.      COMP3012        Computer Vision
+2.      COMP4012        Data Mining
+
+The result of modify:
+Course ID:COMP3012      
+Course name:Advanced Computer Vision
+Evaluation items for the course:3
+Items:
+Assignment 1 100
+Individual Project 59 100
+Final 40 100
+
+Course ID:COMP4012
+Course name:Data Mining
+Evaluation items for the course:3
+Items:
+Assignment 30 50
+Project 30 100
+Final 40 100
+
+Course ID:COMP7043
+Course name:Deep Learning and Applications
+Evaluation items for the course:3
+Items:
+Assignment 30 50
+Project 30 100
+Final 40 100
+
+There're totally 3 courses recorded:
+1.      COMP3012        Advanced Computer Vision
+2.      COMP4012        Data Mining
+3.      COMP7043        Deep Learning and Applications
+
+Edit the related courses:
+
+Course ID:COMP1001
+Course name:Foundations of C programming
+Evaluation items for the course:3
+Items:
+Lab 30 50
+Homework 30 100
+Final 40 100
+
+Course ID:COMP1002
+Course name:Introduction of Computation
+Evaluation items for the course:4
+Items:
+Quiz 20 10
+Essay 25 100
+Midterm 10 100
+Final 45 100
+
+Course ID:COMP1003
+Course name:Database Managment Systems
+Evaluation items for the course:2
+Items:
+Assignment 60 10
+Final 40 100
+
+Course ID:COMP1004
+Course name: Pattern Analysis
+Evaluation items for the course:2
+Items:
+Assignment 60 10
+Final 40 100
+
+There're totally 4 courses recorded:
+1.      COMP1001       Foundations of C programming
+2.      COMP1002       Introduction of Computation
+3.      COMP1003       Database Managment Systems
+4.      COMP1004       Pattern Analysis
+
+ | Course Code  | Course Name                                        | Lowest Final for Expected Course Total
+                                                                               
+  |                 | COMP1001     | Foundations of C programming                     | 69.30
+                                                                                                 |
+  |                 | COMP1002     | Introduction of Computation                         | 77.22
+                                                                                                 |
+  |                 | COMP1003     | Database Managment Systems                      | 93.93
+                                                                                                 |
+  | *               | COMP1004     | Pattern Analysis                                              | 266.67
+                                                                                                 |
+Enter an expected course total([0, 100]) or any negative back:60
+   | (*)Danger       | Course Code  | Course Name                   | Lowest Final for Expected Course Total
+                                       
+  | *               | COMP1001     | Foundations of C programming                    | 19.30
+                                                                                                 |
+  | *               | COMP1002     | Introduction of Computation                        | 32.78
+                                                                                                 |
+  | *               | COMP1003     | Database Managment Systems                    | 43.93
+                                                                                                 |
+  | *               | COMP1004     | Pattern Analysis                                             | 200.00
+
+COMP1002 Single view
+   -----------------------------------
+        | No.    | Item                 | Percentage | Original Average     | Item Grade      |
+        | 1      | Assignment          | 60.00      | 7.07                           | 42.43           |
+        -----------------------------------
+        | No.    | Item                 | Percentage | Fullmark             | Expected Grade  |
+        | 2      | Final                 | 40.00             | 100.00                        | 43.93           |
+ATTENTION: The final score should pass a certain threshold to pass the course!
+
+Enter an expected course total([0, 100]) or any negative back
+:90
+         -----------------------------------
+        | No.    | Item                 | Percentage | Original Average     | Item Grade      |
+        | 1      | Assignment         | 60.00      | 7.07                 | 42.43           |
+        -----------------------------------
+        | No.    | Item                 | Percentage | Fullmark             | Expected Grade  |
+        | 2      | Final                | 40.00      | 100.00               | 118.93          |
+ATTENTION: The final score should pass a certain threshold to pass the course!
+
+Enter an expected course total([0, 100]) or any negative back
+:70
+         -----------------------------------
+        | No.    | Item                 | Percentage | Original Average     | Item Grade      |
+        | 1      | Assignment           | 60.00      | 7.07                 | 42.43           |
+        -----------------------------------
+        | No.    | Item                 | Percentage | Fullmark             | Expected Grade  |
+        | 2      | Final                | 40.00      | 100.00               | 68.93           |
